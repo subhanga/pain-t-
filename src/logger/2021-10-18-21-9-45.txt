@@ -1,0 +1,4 @@
+10/18/2021 7:22:12 Line draw tool selected
+10/18/2021 7:25:45  Polygon tool selected
+10/18/2021 7:25:50 Eraser draw tool selected
+10/18/2021 7:27:44 Autosave
