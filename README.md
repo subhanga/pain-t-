@@ -1,5 +1,8 @@
 # paint
 MS-Paint like application implemented using JavaFx for CS250 class at Valparaiso University.
+          
+          
+          
           Release Note
 Sprint 6
 Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
