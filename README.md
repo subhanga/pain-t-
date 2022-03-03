@@ -1,9 +1,7 @@
 # paint
 MS-Paint like application implemented using JavaFx for CS250 class at Valparaiso University.
           
-          
-          
-          Release Note
+              Release Note
 Sprint 6
 Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
 Logging with (based on) threading is required
@@ -26,6 +24,8 @@ Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
 * be able to draw a "regular" (same side length) polygon with the user specifying the # of sides.
 * Live draw / interactive draw (you should "see" the line or shape as you draw it)
 * Select a piece of the image and move it.
+
+
 Sprint 4
 Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
 New features:
