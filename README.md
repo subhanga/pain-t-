@@ -15,6 +15,8 @@ myfeature.txt - that has a description)
 is a comment about.." please!)
 * Describe (again, separate upload/text file - like "mytechnicaldebt.txt") something you have
 refactored/fixed/polished/improved on this sprint.
+
+
 Sprint 5
 Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
 * have an Undo/Redo using an abstract data type
@@ -38,6 +40,8 @@ changes...")
 * Resize canvas (and resulting image) and zoom in/out.
 Known issues:
 *No Issues
+
+
 Sprint 3
 Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
 New features:
@@ -51,6 +55,8 @@ New features:
 * help menu item
 Known issues:
 *No Issues
+
+
 Sprint 2
 Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
 New features:
@@ -67,6 +73,8 @@ Known issues:
 * No issues
 Expected next sprint:
 * multiple tabs ,cleaner graphics , and more class and method
+
+
 Sprint 1
 Subhanga's Pain(t) Version 1.0.0 - 09/10/2021
 New Features:
